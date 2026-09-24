@@ -20,7 +20,7 @@ An interactive Power BI dashboard created using retail store data to analyze sal
 
 ## Dataset Used
 
-<a href =""></a> Retail Store Dataset
+<a href ="https://github.com/Sowmya782/Retail-Store-dashboard/blob/main/Retail_Store%20powerbi%20project.pbix"></a> Retail Store Dataset
 
 ---
 
@@ -46,7 +46,7 @@ An interactive Power BI dashboard created using retail store data to analyze sal
 
 ## Dashboard
 
-Power BI Dashboard created using the Retail Store dataset.
+<a href =""></a>Power BI Dashboard created using the Retail Store dataset.
 
 ---
 
